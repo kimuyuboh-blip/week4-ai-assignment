@@ -129,7 +129,7 @@ A ***list*** is a collection of items stored in order and can be accessed using 
 #### Example
 `Python`
 
-`phones = ["Samsung", "iPhone", "Tecno", "Nokia"]`
+`phones=["Samsung", "iPhone", "Tecno", "Nokia"]`
 
 Here:
 
@@ -152,7 +152,7 @@ Instead of using positions, you access values using their keys.
 
 `Python`
 
-    phone = {
+    phone={
     "brand": "Samsung",
     "model": "A12",
     "price": 15000
